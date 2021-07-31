@@ -13,7 +13,7 @@ _Current version is for colored and black and white screens._
 	- Put `vtx_bs.lua` to `SCRIPTS/TOOLS` directory of your SD card if your screen like this.
 	- Select `vtx_bs` in `[SYS]->[TOOLS]` page of your transmitter setup.
 
-4. If you have a black and white screen<br/>
+4. If you have a black and white screen (by [AlexeyStn](https://github.com/alexeystn/lua-vtx-switch))<br/>
  ![Screenshot](https://github.com/the23x/lua-vtx-switch-plus/blob/master/screenshotss.png?raw=true)
 	- Put `vtx_ss.lua` to `SCRIPTS/TELEMETRY` directory of your SD card if your screen like this.
 	- Select `vtx_ss` in `[DISPLAY]` page of your model setup.
